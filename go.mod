@@ -1,4 +1,4 @@
-module github.com/modood/btckeygen
+module github.com/54nc71f13d/btckeygen
 
 go 1.14
 
